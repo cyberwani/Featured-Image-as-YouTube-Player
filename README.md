@@ -6,10 +6,10 @@
 ![metabox](https://raw.github.com/brasofilo/Featured-Image-as-YouTube-Player/master/screenshots/meta-box.png)
 
 <sup>***Featured image with rollover***</sup>  
-![before](https://raw.github.com/brasofilo/Featured-Image-as-YouTube-Player/master/screenshots/before-click.png)
+![before](https://raw.github.com/brasofilo/Featured-Image-as-YouTube-Player/master/screenshots/before-clicking.png)
 
 <sup>***Clean player loaded after click***</sup>  
-![after](https://raw.github.com/brasofilo/Featured-Image-as-YouTube-Player/master/screenshots/before-click.png)
+![after](https://raw.github.com/brasofilo/Featured-Image-as-YouTube-Player/master/screenshots/after-clicking.png)
  
 ## Configuration
 

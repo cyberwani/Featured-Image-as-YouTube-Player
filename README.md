@@ -3,13 +3,13 @@
 *Swaps the Featured Image by a YouTube player (click to load/play).*
 
 <sup>***Default meta box with an extra field***</sup>  
-![metabox](https://raw.github.com/brasofilo/Featured-Image-as-YouTube-Player/master/screenshots/meta-box.png)
+>![metabox](https://raw.github.com/brasofilo/Featured-Image-as-YouTube-Player/master/screenshots/meta-box.png)
 
 <sup>***Featured image with rollover***</sup>  
-![before](https://raw.github.com/brasofilo/Featured-Image-as-YouTube-Player/master/screenshots/before-clicking.png)
+>![before](https://raw.github.com/brasofilo/Featured-Image-as-YouTube-Player/master/screenshots/before-clicking.png)
 
 <sup>***Clean player loaded after click***</sup>  
-![after](https://raw.github.com/brasofilo/Featured-Image-as-YouTube-Player/master/screenshots/after-clicking.png)
+>![after](https://raw.github.com/brasofilo/Featured-Image-as-YouTube-Player/master/screenshots/after-clicking.png)
  
 ## Configuration
 

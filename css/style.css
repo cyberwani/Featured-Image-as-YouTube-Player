@@ -1,0 +1,37 @@
+a.gallerypic{
+    width:inherit;
+    text-decoration:none;
+    position:relative;
+    display:block;
+    float:left;
+}
+
+a.gallerypic span.zoom-icon{
+    opacity:0.01;
+    position:absolute;
+    -o-transform:scale(1.4);
+    -o-transition:all .4s ease-in-out;
+    -ms-transform:scale(1.4);
+    -ms-transition:all .4s ease-in-out;
+    -moz-transform:scale(1.4);
+    -moz-transition: all .4s ease-in-out;
+    -webkit-transform:scale(1.4);
+    -webkit-transition: all .4s ease-in-out;
+    transition:.4s;
+}
+
+a.gallerypic:hover span.zoom-icon{
+    opacity:1;
+    -o-transform: scale(1);
+    -ms-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+}
+
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -45px;
+    margin-top: -32px;
+}

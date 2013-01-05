@@ -16,7 +16,6 @@
 Configurable YouTube parameters. Comments indicate official parameters.
 [Documentation](https://developers.google.com/youtube/player_parameters)
 ```php
-<<<<<<< HEAD
 $video_params = array(
     // Values: 2 (default), 1, and 0
     'autohide' => '1', 
@@ -52,43 +51,6 @@ $video_params = array(
     // Values: dark (default) and light.
     'theme' => 'dark',            
 );
-=======
-    $video_params = array(
-    	// Values: 2 (default), 1, and 0
-    	'autohide' => '1', 
-    
-    	// Values: 0 (default) or 1
-    	'autoplay' => '1', 
-    
-    	// Values red (default) and white. White disables modestbranding(!)
-    	'color' => 'white', 
-    
-    	// Values: 0, 1 (default), or 2
-    	'controls' => '2',
-    
-    	// Values: 0 or 1. Variable default. Full screen
-    	'fs' => '1', 
-    
-    	// Values: 1 (default) or 3. Video annotations. 3 = hide
-    	'iv_load_policy' => '3',
-    
-    	// Values: 0 (default) or 1.
-    	'loop' => '0', 
-    
-    	// Set the parameter value to 1 to prevent the YouTube logo 
-    	// from displaying in the control bar. No default given.
-    	'modestbranding' => '1', 
-    
-    	// Values: 0, 1 (default). Related videos.
-    	'rel' => '0',
-    
-    	// Values: 0, 1 (default). Related videos.
-    	'showinfo' => '1',
-    
-    	// Values: dark (default) and light.
-    	'theme' => 'dark',            
-    );
->>>>>>> origin/master
 ```
 
 ## Credits

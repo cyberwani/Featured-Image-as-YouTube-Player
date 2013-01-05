@@ -15,7 +15,7 @@
 
 Configurable YouTube parameters. Comments indicate official parameters.
 [Documentation](https://developers.google.com/youtube/player_parameters)
-
+```php
     $video_params = array(
     	// Values: 2 (default), 1, and 0
     	'autohide' => '1', 
@@ -51,6 +51,7 @@ Configurable YouTube parameters. Comments indicate official parameters.
     	// Values: dark (default) and light.
     	'theme' => 'dark',            
     );
+```
 
 ## Credits
  - Plugin skeleton from [Plugin Class Demo](https://gist.github.com/3804204), by toscho. 
